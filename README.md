@@ -4,13 +4,13 @@ A mobile inventory management application built with Flutter that helps small bu
 
 ## 📱 Screenshots
 
-| Login | Dashboard | Inventory |
-|-------|-----------|-----------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Inventory](screenshots/inventory.png) |
+| Login | Dashboard                              | Inventory |
+|-------|----------------------------------------|-----------|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/add_item.png) | ![Inventory](screenshots/inventory.png) |
 
-| Add Item |
-|----------|
-| ![Add Item](screenshots/add_item.png) |
+| Add Item                               |
+|----------------------------------------|
+| ![Add Item](screenshots/dashboard.png) |
 
 ## ✨ Features
 
